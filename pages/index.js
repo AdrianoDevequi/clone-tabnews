@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Adriano Devequi 2</h1>
+  return <h1>Adriano Devequi</h1>;
 }
 
 export default Home;
